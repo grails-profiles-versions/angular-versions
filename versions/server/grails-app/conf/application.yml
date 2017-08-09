@@ -1,6 +1,6 @@
 ---
 grails:
-    profile: angular2
+    profile: angular
     codegen:
         defaultPackage: versions
     spring:
